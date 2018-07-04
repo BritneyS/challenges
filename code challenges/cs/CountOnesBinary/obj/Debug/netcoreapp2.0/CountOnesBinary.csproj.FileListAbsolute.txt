@@ -1,0 +1,10 @@
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\CountOnesBinary\obj\Debug\netcoreapp2.0\CountOnesBinary.csproj.CoreCompileInputs.cache
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\CountOnesBinary\obj\Debug\netcoreapp2.0\CountOnesBinary.AssemblyInfoInputs.cache
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\CountOnesBinary\obj\Debug\netcoreapp2.0\CountOnesBinary.AssemblyInfo.cs
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\CountOnesBinary\bin\Debug\netcoreapp2.0\CountOnesBinary.deps.json
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\CountOnesBinary\bin\Debug\netcoreapp2.0\CountOnesBinary.runtimeconfig.json
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\CountOnesBinary\bin\Debug\netcoreapp2.0\CountOnesBinary.runtimeconfig.dev.json
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\CountOnesBinary\bin\Debug\netcoreapp2.0\CountOnesBinary.dll
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\CountOnesBinary\bin\Debug\netcoreapp2.0\CountOnesBinary.pdb
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\CountOnesBinary\obj\Debug\netcoreapp2.0\CountOnesBinary.dll
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\CountOnesBinary\obj\Debug\netcoreapp2.0\CountOnesBinary.pdb
