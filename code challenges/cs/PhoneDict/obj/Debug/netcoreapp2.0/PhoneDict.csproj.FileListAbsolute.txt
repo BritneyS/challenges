@@ -1,0 +1,10 @@
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\PhoneDict\obj\Debug\netcoreapp2.0\PhoneDict.csproj.CoreCompileInputs.cache
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\PhoneDict\obj\Debug\netcoreapp2.0\PhoneDict.AssemblyInfoInputs.cache
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\PhoneDict\obj\Debug\netcoreapp2.0\PhoneDict.AssemblyInfo.cs
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\PhoneDict\bin\Debug\netcoreapp2.0\PhoneDict.deps.json
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\PhoneDict\bin\Debug\netcoreapp2.0\PhoneDict.runtimeconfig.json
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\PhoneDict\bin\Debug\netcoreapp2.0\PhoneDict.runtimeconfig.dev.json
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\PhoneDict\bin\Debug\netcoreapp2.0\PhoneDict.dll
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\PhoneDict\bin\Debug\netcoreapp2.0\PhoneDict.pdb
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\PhoneDict\obj\Debug\netcoreapp2.0\PhoneDict.dll
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\PhoneDict\obj\Debug\netcoreapp2.0\PhoneDict.pdb
