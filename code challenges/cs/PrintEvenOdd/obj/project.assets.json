@@ -665,23 +665,26 @@
   },
   "packageFolders": {
     "C:\\Users\\brits\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\brits\\Google Drive\\workspace-2\\webdev\\challenges\\challenges\\code challenges\\cs\\PrintEvenOdd\\PrintEvenOdd.csproj",
+      "projectUniqueName": "c:\\Users\\brits\\Google Drive\\workspace\\challenges\\code challenges\\cs\\PrintEvenOdd\\PrintEvenOdd.csproj",
       "projectName": "PrintEvenOdd",
-      "projectPath": "c:\\Users\\brits\\Google Drive\\workspace-2\\webdev\\challenges\\challenges\\code challenges\\cs\\PrintEvenOdd\\PrintEvenOdd.csproj",
+      "projectPath": "c:\\Users\\brits\\Google Drive\\workspace\\challenges\\code challenges\\cs\\PrintEvenOdd\\PrintEvenOdd.csproj",
       "packagesPath": "C:\\Users\\brits\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\brits\\Google Drive\\workspace-2\\webdev\\challenges\\challenges\\code challenges\\cs\\PrintEvenOdd\\obj\\",
+      "outputPath": "c:\\Users\\brits\\Google Drive\\workspace\\challenges\\code challenges\\cs\\PrintEvenOdd\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\brits\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"

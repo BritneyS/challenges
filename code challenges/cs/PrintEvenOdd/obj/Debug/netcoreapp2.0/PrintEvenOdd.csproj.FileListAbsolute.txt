@@ -8,3 +8,13 @@ c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challe
 c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\PrintEvenOdd\obj\Debug\netcoreapp2.0\PrintEvenOdd.AssemblyInfo.cs
 c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\PrintEvenOdd\obj\Debug\netcoreapp2.0\PrintEvenOdd.dll
 c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\PrintEvenOdd\obj\Debug\netcoreapp2.0\PrintEvenOdd.pdb
+c:\Users\brits\Google Drive\workspace\challenges\code challenges\cs\PrintEvenOdd\bin\Debug\netcoreapp2.0\PrintEvenOdd.deps.json
+c:\Users\brits\Google Drive\workspace\challenges\code challenges\cs\PrintEvenOdd\bin\Debug\netcoreapp2.0\PrintEvenOdd.runtimeconfig.json
+c:\Users\brits\Google Drive\workspace\challenges\code challenges\cs\PrintEvenOdd\bin\Debug\netcoreapp2.0\PrintEvenOdd.runtimeconfig.dev.json
+c:\Users\brits\Google Drive\workspace\challenges\code challenges\cs\PrintEvenOdd\bin\Debug\netcoreapp2.0\PrintEvenOdd.dll
+c:\Users\brits\Google Drive\workspace\challenges\code challenges\cs\PrintEvenOdd\bin\Debug\netcoreapp2.0\PrintEvenOdd.pdb
+c:\Users\brits\Google Drive\workspace\challenges\code challenges\cs\PrintEvenOdd\obj\Debug\netcoreapp2.0\PrintEvenOdd.csproj.CoreCompileInputs.cache
+c:\Users\brits\Google Drive\workspace\challenges\code challenges\cs\PrintEvenOdd\obj\Debug\netcoreapp2.0\PrintEvenOdd.AssemblyInfoInputs.cache
+c:\Users\brits\Google Drive\workspace\challenges\code challenges\cs\PrintEvenOdd\obj\Debug\netcoreapp2.0\PrintEvenOdd.AssemblyInfo.cs
+c:\Users\brits\Google Drive\workspace\challenges\code challenges\cs\PrintEvenOdd\obj\Debug\netcoreapp2.0\PrintEvenOdd.dll
+c:\Users\brits\Google Drive\workspace\challenges\code challenges\cs\PrintEvenOdd\obj\Debug\netcoreapp2.0\PrintEvenOdd.pdb

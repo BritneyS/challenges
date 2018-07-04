@@ -1,0 +1,10 @@
+c:\Users\brits\Google Drive\workspace\challenges\code challenges\cs\ArrayReverse\bin\Debug\netcoreapp2.0\ArrayReverse.deps.json
+c:\Users\brits\Google Drive\workspace\challenges\code challenges\cs\ArrayReverse\bin\Debug\netcoreapp2.0\ArrayReverse.runtimeconfig.json
+c:\Users\brits\Google Drive\workspace\challenges\code challenges\cs\ArrayReverse\bin\Debug\netcoreapp2.0\ArrayReverse.runtimeconfig.dev.json
+c:\Users\brits\Google Drive\workspace\challenges\code challenges\cs\ArrayReverse\bin\Debug\netcoreapp2.0\ArrayReverse.dll
+c:\Users\brits\Google Drive\workspace\challenges\code challenges\cs\ArrayReverse\bin\Debug\netcoreapp2.0\ArrayReverse.pdb
+c:\Users\brits\Google Drive\workspace\challenges\code challenges\cs\ArrayReverse\obj\Debug\netcoreapp2.0\ArrayReverse.csproj.CoreCompileInputs.cache
+c:\Users\brits\Google Drive\workspace\challenges\code challenges\cs\ArrayReverse\obj\Debug\netcoreapp2.0\ArrayReverse.AssemblyInfoInputs.cache
+c:\Users\brits\Google Drive\workspace\challenges\code challenges\cs\ArrayReverse\obj\Debug\netcoreapp2.0\ArrayReverse.AssemblyInfo.cs
+c:\Users\brits\Google Drive\workspace\challenges\code challenges\cs\ArrayReverse\obj\Debug\netcoreapp2.0\ArrayReverse.dll
+c:\Users\brits\Google Drive\workspace\challenges\code challenges\cs\ArrayReverse\obj\Debug\netcoreapp2.0\ArrayReverse.pdb
