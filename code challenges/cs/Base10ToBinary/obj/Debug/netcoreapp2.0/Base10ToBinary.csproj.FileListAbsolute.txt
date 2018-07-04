@@ -1,0 +1,10 @@
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\Base10ToBinary\obj\Debug\netcoreapp2.0\Base10ToBinary.csproj.CoreCompileInputs.cache
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\Base10ToBinary\obj\Debug\netcoreapp2.0\Base10ToBinary.AssemblyInfoInputs.cache
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\Base10ToBinary\obj\Debug\netcoreapp2.0\Base10ToBinary.AssemblyInfo.cs
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\Base10ToBinary\bin\Debug\netcoreapp2.0\Base10ToBinary.deps.json
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\Base10ToBinary\bin\Debug\netcoreapp2.0\Base10ToBinary.runtimeconfig.json
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\Base10ToBinary\bin\Debug\netcoreapp2.0\Base10ToBinary.runtimeconfig.dev.json
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\Base10ToBinary\bin\Debug\netcoreapp2.0\Base10ToBinary.dll
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\Base10ToBinary\bin\Debug\netcoreapp2.0\Base10ToBinary.pdb
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\Base10ToBinary\obj\Debug\netcoreapp2.0\Base10ToBinary.dll
+c:\Users\brits\Google Drive\workspace-2\webdev\challenges\challenges\code challenges\cs\Base10ToBinary\obj\Debug\netcoreapp2.0\Base10ToBinary.pdb
